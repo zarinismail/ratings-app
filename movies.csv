@@ -1,0 +1,98 @@
+ID,title,year,director,lb_url,letterboxd_rating,lb_avg,imdb_rating,imdb_avg,tomatometer,rt_avg,metascore,mc_avg,tmdb_rating,tmdb_avg
+1,Anora,2024,Sean Baker,https://letterboxd.com/film/anora/,3.9,3.9,7.5,7.8,93,89,91,84,71,75
+2,Oppenheimer,2023,Christopher Nolan,https://letterboxd.com/film/oppenheimer-2023/,4.2,3.9,8.3,7.8,93,89,90,84,81,75
+3,Everything Everywhere All at Once,2022,"Daniel Kwan, Daniel Scheinert",https://letterboxd.com/film/everything-everywhere-all-at-once/,4.3,3.9,7.8,7.8,94,89,81,84,78,75
+4,CODA,2021,Sian Heder,https://letterboxd.com/film/coda-2021/,3.9,3.9,8,7.8,94,89,72,84,79,75
+5,Nomadland,2021,Chloe Zhao,https://letterboxd.com/film/nomadland/,3.8,3.9,7.3,7.8,93,89,87,84,72,75
+6,Parasite,2019,Bong Joon Ho,https://letterboxd.com/film/parasite-2019/,4.5,3.9,8.5,7.8,99,89,97,84,85,75
+7,Green Book,2018,Peter Farrelly,https://letterboxd.com/film/green-book/,3.8,3.9,8.2,7.8,77,89,69,84,82,75
+8,The Shape of Water,2017,Guillermo del Toro,https://letterboxd.com/film/the-shape-of-water/,3.7,3.9,7.3,7.8,92,89,87,84,72,75
+9,Moonlight,2016,Barry Jenkins,https://letterboxd.com/film/moonlight-2016/,4.2,3.9,7.4,7.8,98,89,99,84,74,75
+10,Spotlight,2015,Tom McCarthy,https://letterboxd.com/film/spotlight/,4.1,3.9,8.1,7.8,97,89,93,84,78,75
+11,Birdman or (The Unexpected Virtue of Ignorance),2014,Alejandro Gonzalez Inarritu,https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/,4,3.9,7.7,7.8,91,89,87,84,75,75
+12,12 Years a Slave,2013,Steve McQueen,https://letterboxd.com/film/12-years-a-slave/,4.2,3.9,8.1,7.8,95,89,96,84,79,75
+13,Argo,2012,Ben Affleck,https://letterboxd.com/film/argo/,3.7,3.9,7.7,7.8,96,89,86,84,73,75
+14,The Artist,2012,Michel Hazanavicius,https://letterboxd.com/film/the-artist/,3.8,3.9,7.8,7.8,95,89,89,84,75,75
+15,The King's Speech,2010,Tom Hooper,https://letterboxd.com/film/the-kings-speech/,3.8,3.9,8,7.8,94,89,88,84,77,75
+16,The Hurt Locker,2009,Kathryn Bigelow,https://letterboxd.com/film/the-hurt-locker/,3.8,3.9,7.5,7.8,96,89,95,84,73,75
+17,Slumdog Millionaire,2008,"Danny Boyle, Loveleen Tandan",https://letterboxd.com/film/slumdog-millionaire/,3.9,3.9,8,7.8,91,89,84,84,77,75
+18,No Country for Old Men,2007,"Ethan Coen, Joel Coen",https://letterboxd.com/film/no-country-for-old-men/,4.3,3.9,8.2,7.8,93,89,92,84,79,75
+19,The Departed,2006,Martin Scorsese,https://letterboxd.com/film/the-departed/,4.3,3.9,8.5,7.8,91,89,85,84,82,75
+20,Crash,2005,Paul Haggis,https://letterboxd.com/film/crash-2004/,3,3.9,7.7,7.8,73,89,66,84,72,75
+21,Million Dollar Baby,2004,Clint Eastwood,https://letterboxd.com/film/million-dollar-baby/,4,3.9,8.1,7.8,90,89,86,84,80,75
+22,The Lord of the Rings: The Return of the King,2003,Peter Jackson,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,4.5,3.9,9,7.8,94,89,94,84,85,75
+23,Chicago,2002,Rob Marshall,https://letterboxd.com/film/chicago/,4,3.9,7.2,7.8,87,89,81,84,71,75
+24,A Beautiful Mind,2001,Ron Howard,https://letterboxd.com/film/a-beautiful-mind/,3.8,3.9,8.2,7.8,74,89,72,84,79,75
+25,Gladiator,2000,Ridley Scott,https://letterboxd.com/film/gladiator-2000/,4.1,3.9,8.5,7.8,80,89,67,84,82,75
+26,American Beauty,1999,Sam Mendes,https://letterboxd.com/film/american-beauty/,4,3.9,8.3,7.8,87,89,84,84,80,75
+27,Shakespeare in Love,1998,John Madden,https://letterboxd.com/film/shakespeare-in-love/,3.3,3.9,7.1,7.8,92,89,87,84,69,75
+28,Titanic,1997,James Cameron,https://letterboxd.com/film/titanic-1997/,3.8,3.9,7.9,7.8,88,89,75,84,79,75
+29,The English Patient,1996,Anthony Minghella,https://letterboxd.com/film/the-english-patient/,3.6,3.9,7.4,7.8,86,89,86,84,72,75
+30,Braveheart,1995,Mel Gibson,https://letterboxd.com/film/braveheart/,3.9,3.9,8.3,7.8,76,89,68,84,79,75
+31,Forrest Gump,1994,Robert Zemeckis,https://letterboxd.com/film/forrest-gump/,4.1,3.9,8.8,7.8,75,89,82,84,85,75
+32,Schindler's List,1993,Steven Spielberg,https://letterboxd.com/film/schindlers-list/,4.5,3.9,9,7.8,98,89,95,84,86,75
+33,Unforgiven,1992,Clint Eastwood,https://letterboxd.com/film/unforgiven/,4.2,3.9,8.2,7.8,96,89,85,84,79,75
+34,The Silence of the Lambs,1991,Jonathan Demme,https://letterboxd.com/film/the-silence-of-the-lambs/,4.3,3.9,8.6,7.8,95,89,86,84,83,75
+35,Dances with Wolves,1990,Kevin Costner,https://letterboxd.com/film/dances-with-wolves/,3.9,3.9,8,7.8,87,89,72,84,78,75
+36,Driving Miss Daisy,1989,Bruce Beresford,https://letterboxd.com/film/driving-miss-daisy/,3.3,3.9,7.3,7.8,85,89,81,84,72,75
+37,Rain Man,1988,Barry Levinson,https://letterboxd.com/film/rain-man/,3.9,3.9,8,7.8,88,89,65,84,78,75
+38,The Last Emperor,1987,Bernardo Bertolucci,https://letterboxd.com/film/the-last-emperor/,3.9,3.9,7.7,7.8,86,89,76,84,76,75
+39,Platoon,1986,Oliver Stone,https://letterboxd.com/film/platoon/,4,3.9,8.1,7.8,89,89,92,84,77,75
+40,Out of Africa,1985,Sydney Pollack,https://letterboxd.com/film/out-of-africa/,3.4,3.9,7.1,7.8,62,89,69,84,72,75
+41,Amadeus,1984,Milos Forman,https://letterboxd.com/film/amadeus/,4.3,3.9,8.4,7.8,90,89,87,84,80,75
+42,Terms of Endearment,1983,James L. Brooks,https://letterboxd.com/film/terms-of-endearment/,3.8,3.9,7.4,7.8,81,89,79,84,71,75
+43,Gandhi,1982,Richard Attenborough,https://letterboxd.com/film/gandhi/,3.7,3.9,8,7.8,89,89,79,84,76,75
+44,Chariots of Fire,1981,Hugh Hudson,https://letterboxd.com/film/chariots-of-fire/,3.4,3.9,7.1,7.8,84,89,78,84,68,75
+45,Ordinary People,1980,Robert Redford,https://letterboxd.com/film/ordinary-people/,4,3.9,7.7,7.8,89,89,86,84,75,75
+46,Kramer vs. Kramer,1979,Robert Benton,https://letterboxd.com/film/kramer-vs-kramer/,4.1,3.9,7.8,7.8,90,89,77,84,76,75
+47,The Deer Hunter,1978,Michael Cimino,https://letterboxd.com/film/the-deer-hunter/,4.2,3.9,8.1,7.8,86,89,90,84,80,75
+48,Annie Hall,1977,Woody Allen,https://letterboxd.com/film/annie-hall/,4,3.9,7.9,7.8,97,89,92,84,77,75
+49,Rocky,1976,John G. Avildsen,https://letterboxd.com/film/rocky/,4.1,3.9,8.1,7.8,93,89,70,84,78,75
+50,One Flew Over the Cuckoo's Nest,1975,Milos Forman,https://letterboxd.com/film/one-flew-over-the-cuckoos-nest/,4.4,3.9,8.7,7.8,93,89,84,84,84,75
+51,The Godfather Part II,1974,Francis Ford Coppola,https://letterboxd.com/film/the-godfather-part-ii/,4.6,3.9,9,7.8,96,89,90,84,86,75
+52,The Sting,1973,George Roy Hill,https://letterboxd.com/film/the-sting/,4.2,3.9,8.3,7.8,93,89,83,84,80,75
+53,The Godfather,1972,Francis Ford Coppola,https://letterboxd.com/film/the-godfather/,4.5,3.9,9.2,7.8,97,89,100,84,87,75
+54,The French Connection,1971,William Friedkin,https://letterboxd.com/film/the-french-connection/,4,3.9,7.7,7.8,97,89,94,84,75,75
+55,Patton,1970,Franklin J. Schaffner,https://letterboxd.com/film/patton/,3.9,3.9,7.9,7.8,92,89,86,84,75,75
+56,Midnight Cowboy,1969,John Schlesinger,https://letterboxd.com/film/midnight-cowboy/,4.1,3.9,7.8,7.8,89,89,79,84,75,75
+57,Oliver!,1968,Carol Reed,https://letterboxd.com/film/oliver/,3.6,3.9,7.4,7.8,91,89,74,84,70,75
+58,In the Heat of the Night,1967,Norman Jewison,https://letterboxd.com/film/in-the-heat-of-the-night/,4,3.9,7.9,7.8,95,89,76,84,76,75
+59,A Man for All Seasons,1966,Fred Zinnemann,https://letterboxd.com/film/a-man-for-all-seasons/,3.8,3.9,7.7,7.8,89,89,72,84,73,75
+60,The Sound of Music,1965,Robert Wise,https://letterboxd.com/film/the-sound-of-music/,4.2,3.9,8.1,7.8,83,89,63,84,77,75
+61,My Fair Lady,1964,George Cukor,https://letterboxd.com/film/my-fair-lady/,3.6,3.9,7.7,7.8,94,89,95,84,75,75
+62,Tom Jones,1963,Tony Richardson,https://letterboxd.com/film/tom-jones/,2.9,3.9,6.4,7.8,83,89,77,84,59,75
+63,Lawrence of Arabia,1962,David Lean,https://letterboxd.com/film/lawrence-of-arabia/,4.4,3.9,8.3,7.8,93,89,100,84,80,75
+64,West Side Story,1961,"Jerome Robbins, Robert Wise",https://letterboxd.com/film/west-side-story/,3.8,3.9,7.6,7.8,92,89,86,84,72,75
+65,The Apartment,1960,Billy Wilder,https://letterboxd.com/film/the-apartment/,4.4,3.9,8.3,7.8,93,89,94,84,82,75
+66,Ben-Hur,1959,William Wyler,https://letterboxd.com/film/ben-hur-1959/,4.1,3.9,8.1,7.8,87,89,90,84,79,75
+67,Gigi,1958,"Vincente Minnelli, Charles Walters",https://letterboxd.com/film/gigi/,3,3.9,6.6,7.8,89,89,82,84,62,75
+68,The Bridge on the River Kwai,1957,David Lean,https://letterboxd.com/film/the-bridge-on-the-river-kwai/,4.2,3.9,8.1,7.8,96,89,88,84,78,75
+69,Around the World in 80 Days,1956,"Michael Anderson, John Farrow",https://letterboxd.com/film/around-the-world-in-eighty-days/,3.1,3.9,6.7,7.8,72,89,69,84,67,75
+70,Marty,1955,Delbert Mann,https://letterboxd.com/film/marty/,3.9,3.9,7.7,7.8,96,89,82,84,74,75
+71,On the Waterfront,1954,Elia Kazan,https://letterboxd.com/film/on-the-waterfront/,4.2,3.9,8.1,7.8,99,89,91,84,79,75
+72,From Here to Eternity,1953,Fred Zinnemann,https://letterboxd.com/film/from-here-to-eternity/,3.8,3.9,7.6,7.8,88,89,85,84,73,75
+73,The Greatest Show on Earth,1952,Cecil B. DeMille,https://letterboxd.com/film/the-greatest-show-on-earth/,2.9,3.9,6.5,7.8,50,89,76,84,63,75
+74,An American in Paris,1951,Vincente Minnelli,https://letterboxd.com/film/an-american-in-paris/,3.7,3.9,7.1,7.8,95,89,83,84,70,75
+75,All About Eve,1950,Joseph L. Mankiewicz,https://letterboxd.com/film/all-about-eve/,4.4,3.9,8.2,7.8,99,89,98,84,81,75
+76,All the King's Men,1949,Robert Rossen,https://letterboxd.com/film/all-the-kings-men/,3.6,3.9,7.4,7.8,97,89,N/A,84,70,75
+77,Hamlet,1948,Laurence Olivier,https://letterboxd.com/film/hamlet/,3.7,3.9,7.5,7.8,96,89,82,84,74,75
+78,Gentleman's Agreement,1947,Elia Kazan,https://letterboxd.com/film/gentlemans-agreement/,3.5,3.9,7.2,7.8,82,89,N/A,84,69,75
+79,The Best Years of Our Lives,1946,William Wyler,https://letterboxd.com/film/the-best-years-of-our-lives/,4.2,3.9,8.1,7.8,98,89,93,84,78,75
+80,The Lost Weekend,1945,Billy Wilder,https://letterboxd.com/film/the-lost-weekend/,4,3.9,7.9,7.8,97,89,N/A,84,76,75
+81,Going My Way,1944,Leo McCarey,https://letterboxd.com/film/going-my-way/,3.3,3.9,7,7.8,85,89,90,84,67,75
+82,Casablanca,1943,Michael Curtiz,https://letterboxd.com/film/casablanca/,4.3,3.9,8.5,7.8,99,89,100,84,82,75
+83,Mrs. Miniver,1942,William Wyler,https://letterboxd.com/film/mrs-miniver/,3.7,3.9,7.6,7.8,93,89,77,84,70,75
+84,How Green Was My Valley,1941,John Ford,https://letterboxd.com/film/how-green-was-my-valley/,4,3.9,7.7,7.8,93,89,88,84,73,75
+85,Rebecca,1940,Alfred Hitchcock,https://letterboxd.com/film/rebecca/,4.1,3.9,8.1,7.8,98,89,86,84,79,75
+86,Gone with the Wind,1939,Victor Fleming,https://letterboxd.com/film/gone-with-the-wind/,3.9,3.9,8.2,7.8,90,89,97,84,79,75
+87,You Can't Take It with You,1938,Frank Capra,https://letterboxd.com/film/you-cant-take-it-with-you/,3.8,3.9,7.8,7.8,94,89,N/A,84,75,75
+88,The Life of Emile Zola,1937,William Dieterle,https://letterboxd.com/film/the-life-of-emile-zola/,3.3,3.9,7.1,7.8,92,89,N/A,84,67,75
+89,The Great Ziegfeld,1936,Robert Z. Leonard,https://letterboxd.com/film/the-great-ziegfeld/,3,3.9,6.6,7.8,72,89,69,84,62,75
+90,Mutiny on the Bounty,1935,Frank Lloyd,https://letterboxd.com/film/mutiny-on-the-bounty/,3.7,3.9,7.6,7.8,96,89,87,84,73,75
+91,It Happened One Night,1934,Frank Capra,https://letterboxd.com/film/it-happened-one-night/,4.2,3.9,8.1,7.8,98,89,87,84,78,75
+92,Cavalcade,1933,Frank Lloyd,https://letterboxd.com/film/cavalcade/,2.5,3.9,5.8,7.8,64,89,73,84,55,75
+93,Grand Hotel,1932,Edmund Goulding,https://letterboxd.com/film/grand-hotel/,3.5,3.9,7.3,7.8,87,89,79,84,69,75
+94,Cimarron,1931,Wesley Ruggles,https://letterboxd.com/film/cimarron/,2.4,3.9,5.8,7.8,52,89,70,84,56,75
+95,All Quiet on the Western Front,1930,Lewis Milestone,https://letterboxd.com/film/all-quiet-on-the-western-front/,4.2,3.9,8.1,7.8,98,89,91,84,78,75
+96,The Broadway Melody,1929,Harry Beaumont,https://letterboxd.com/film/the-broadway-melody/,2.4,3.9,5.5,7.8,42,89,66,84,52,75
+97,Wings,1927,"William A. Wellman, Harry d'Abbadie d'Arrast",https://letterboxd.com/film/wings/,3.8,3.9,7.5,7.8,94,89,78,84,72,75

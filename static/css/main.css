@@ -1,0 +1,30 @@
+body {
+    font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+    background: linear-gradient(#d5a337, #ffffff);
+}
+ 
+h1, h2 {
+    font-family: 'Geologica', Verdana, sans-serif;
+}
+
+.pagination .page-link {
+    background: #a17748;
+    color: #fff;
+    border-color: #fff;
+}
+
+.page-link:hover {
+    color: #3e3d3b;
+}
+a {
+    color: #a17748;
+}
+a:hover {
+    color: #af824e;
+}
+footer a {
+    color: #c1996c;
+}
+footer a:hover {
+    color: #e9c8a2;
+}
